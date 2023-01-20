@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+body {
+  margin: 50px;
+  background-color: beige;
+  /* color: white; */
+}
+
+button {
+  margin: 15px;
+}
+
+
